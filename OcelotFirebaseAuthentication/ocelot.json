@@ -44,5 +44,7 @@
       ]
     }
   ],
-  "GlobalConfiguration": {}
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:44350"
+  }
 }
