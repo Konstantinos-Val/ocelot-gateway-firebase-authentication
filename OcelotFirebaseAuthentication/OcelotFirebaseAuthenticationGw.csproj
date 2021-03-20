@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>368b331a-7102-4feb-9d14-9cc06a9e8255</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="AspNetCore.Firebase.Authentication" Version="2.0.1" />
-    <PackageReference Include="Ocelot" Version="16.0.1" />
+    <PackageReference Include="Ocelot" Version="17.0.0" />
   </ItemGroup>
 
 </Project>
